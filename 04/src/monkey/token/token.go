@@ -40,6 +40,7 @@ const (
 	RBRACE   = "}"
 	LBRACKET = "["
 	RBRACKET = "]"
+	COLON    = ":"
 
 	// キーワード
 	FUNCTION = "FUNCTION"
